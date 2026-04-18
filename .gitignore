@@ -12,3 +12,4 @@
 !include/*.hpp
 !.gitignore
 !README.md
+!banner.svg
