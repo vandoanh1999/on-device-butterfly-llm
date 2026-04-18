@@ -1,8 +1,6 @@
-sed -i '1s/^/
 
 ![VDAE Banner](banner.svg)
 
-\n\n/' README.md
 git add README.md
 git commit -m "Add animated banner + detailed README"
 git push
