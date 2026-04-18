@@ -1,0 +1,14 @@
+# Tất cả mọi thứ - mặc định ignore
+*
+
+# Chỉ cho phép những thứ này
+!src/
+!src/*.cpp
+!src/*.hpp
+!scripts/
+!scripts/*.sh
+!include/
+!include/*.h
+!include/*.hpp
+!.gitignore
+!README.md
